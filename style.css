@@ -1,0 +1,40 @@
+body 
+{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+#head
+{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#name
+{
+    display: inline-block;
+    color: brown;
+}
+.social-media
+{
+    background-color: crimson;
+}
+#sobre-mi
+{
+    margin-left: 1px;
+    margin-top: auto;
+    margin-bottom: 300px;
+    font-size: 18px;
+}
+#correo
+{
+    color: black;
+}
+img
+{
+    width: 160px;
+    border-radius: 45%;
+    height: 150px;
+    display: inline-block;
+}
